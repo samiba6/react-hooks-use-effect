@@ -15,7 +15,7 @@ function DogPics() {
       });
   });
 
-  console.log("render");
+  console.log("render it");
 
   return (
     <div>
